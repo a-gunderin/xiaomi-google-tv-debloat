@@ -1,0 +1,46 @@
+com.amazon.amazonvideo.livingroom
+com.android.backupconfirm
+com.android.dreams.basic
+com.android.healthconnect.controller
+com.android.printspooler
+com.android.sharedstoragebackup
+com.android.wallpaperbackup
+com.google.android.apps.tv.dreamx
+com.google.android.feedback
+com.google.android.marvin.talkback
+com.google.android.play.games
+com.google.android.syncadapters.calendar
+com.google.android.videos
+com.google.android.youtube.tv
+com.google.android.youtube.tvmusic
+com.mediatek.AirplayAPK
+com.mediatek.airplaydaemon
+com.mediatek.browservice
+com.mediatek.partner.airplay_sys
+com.mitv.gallery
+com.mitv.overseaservice
+com.mitv.toolhouse
+com.mitv.tvhome.michannel
+com.mitv.tvhome.mitvplus
+com.mitv.videoplayer
+com.miui.tv.analytics
+com.netflix.ninja
+com.xiaomi.floatingframe
+com.xiaomi.mimusic2
+com.xiaomi.mitv.mediaexplorer
+com.xiaomi.mitv.scenemode
+com.xiaomi.mitv.smartshare
+com.xiaomi.mi_connect_service
+com.xiaomi.statistic
+com.xiaomi.tvqs.overseas.y24
+com.xiaomo.tv.milegal
+com.xm.webcontent
+
+# Essential for live broadcast TV functionality; removing it disables all antenna/cable/satellite channels while streaming apps remain unaffected
+com.iwedia.tvinput
+
+# TV tuner input for ATSC broadcasts – enables reception of over-the-air digital TV in North America, South Korea, Mexico
+com.mediatek.dtv.tvinput.atsctuner
+
+#TV tuner input for ISDB-T broadcasts – enables reception of over-the-air digital TV in Japan, most of South America, Philippines
+com.mediatek.dtv.tvinput.isdbtuner
