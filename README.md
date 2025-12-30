@@ -3,7 +3,7 @@
 Recently, I purchased a **Xiaomi QLED 43" TV A Pro 43 2026**  
 (Model: **L43MB-APME**, ID: **1139939**).
 
-After connecting to the TV using **ADB** (via an ADB TV app and the `adb` console), I discovered that the system comes with a large number of preinstalled applications. Running the following command:
+After connecting to the TV using **ADB** (via an [ADB TV](https://adbappcontrol.com/en/tv/) app and the `adb` console), I discovered that the system comes with a large number of preinstalled applications. Running the following command:
 
     pm list packages
 
